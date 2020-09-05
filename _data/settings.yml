@@ -9,7 +9,7 @@ description: Zolan is modern minimal theme for Jekyll
 # Author Settings
 author:
   name: Quitandinha GO
-  image: 01.jpg
+  # image: 01.png
   say-hello: 🔸 Confeitaria Artesanal sob encomenda </br> <strong><small>Por Ellen Santos</small></strong>
   bio: 
 
