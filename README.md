@@ -103,12 +103,12 @@ And also check [Disqus troubleshooting guide](https://help.disqus.com/customer/p
 
 ### Instagram
 
-The Instagram feed is working using [Instafeed.js](https://instafeedjs.com/) to show the photos.
+The Instagram feed is working using [Instafeed.js](http://instafeedjs.com/) to show the photos.
 
 First, you will need to get your account `userId` and `accessToken` from the following URLs:
 
-*   userId: [https://codeofaninja.com/tools/find-instagram-user-id/](https://codeofaninja.com/tools/find-instagram-user-id/)
-*   accessToken: [instagram.pixelunion.net](https://instagram.pixelunion.net/)
+*   userId: [http://codeofaninja.com/tools/find-instagram-user-id/](http://codeofaninja.com/tools/find-instagram-user-id/)
+*   accessToken: [instagram.pixelunion.net](http://instagram.pixelunion.net/)
 
 Second, open the `js/common.js` file and replace the `userId` and `accessToken` values.
 
@@ -152,9 +152,9 @@ I have used the following scripts, fonts or other files as listed.
 
 *   [Google Fonts](https://fonts.google.com/specimen/Nunito) (Roboto, Sans Serif).
 *   [Ionicons Icons](https://ionicons.com/)
-*   [FitVids.js](https://fitvidsjs.com/)
+*   [FitVids.js](http://fitvidsjs.com/)
 *   [Medium’s Image Zoom](https://github.com/fat/zoom.js)
-*   [Instafeed.js](https://instafeedjs.com/)
+*   [Instafeed.js](http://instafeedjs.com/)
 *   [jQuery.com](https://jquery.com/)
 *   Preview Images form [unsplash.com](https://unsplash.com/), [pexels.com](https://www.pexels.com/)
 
